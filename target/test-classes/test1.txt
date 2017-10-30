@@ -1,3 +1,0 @@
-Variables:
-name = swan
-date = 09/21/2010
